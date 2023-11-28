@@ -11,7 +11,7 @@ The created repository is used to stre HW on classes Administration of databases
 
 3. [MySQL](https://github.com/YundinMS/bd_Dev_Netology/blob/main/06.03_bd_dev.md)
 
-4. [PostgreSQL]()
+4. [PostgreSQL](https://github.com/YundinMS/bd_Dev_Netology/blob/main/06.04_bd_dev.md)
 
 5. [Elasticsearch]()
 
