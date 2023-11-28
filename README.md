@@ -9,7 +9,7 @@ The created repository is used to stre HW on classes Administration of databases
 
 2. [SQL](https://github.com/YundinMS/bd_Dev_Netology/blob/main/06.02_bd_dev.md)
 
-3. [MySQL]()
+3. [MySQL](https://github.com/YundinMS/bd_Dev_Netology/blob/main/06.03_bd_dev.md)
 
 4. [PostgreSQL]()
 
